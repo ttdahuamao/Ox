@@ -7,7 +7,7 @@
 
 [rewrite_local]
 
-^https:\/\/api\.gotokeep\.com url script-response-body https://raw.githubusercontent.com/ttdahuamao/Ox/main/ApTv
+^https:\/\/api\.gotokeep\.com url script-response-body https://raw.githubusercontent.com/ttdahuamao/Ox/main/Keep
 [mitm] 
 
 hostname = api.gotokeep.com
